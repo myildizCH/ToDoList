@@ -1,3 +1,4 @@
+![Screenshot 2021-09-16 at 08 22 55](https://user-images.githubusercontent.com/73114083/133561168-8b786a80-94d6-4e5b-bb34-b0af82371990.png)
 # To Do List
 
 To Do List is a sample project that allows users to create a to-do list and mark them as completed. The project uses [Express.js](https://expressjs.com/), [body-parser](https://www.npmjs.com/package/body-parser), and [ejs](https://ejs.co/).
